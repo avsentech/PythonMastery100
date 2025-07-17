@@ -45,5 +45,10 @@ print("First color:", colors[0])  # Accesses the first item (index 0) and prints
     Or slice them:
 
     print("Last two colors:", colors[1:])
+"""
 
+# Real-World Connection
+"""
+    - Tuples are used to store coordinates, RGB values, database rows, or config constants
+    - Enables stable data structures in apps and APIs
 """

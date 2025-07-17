@@ -1,6 +1,6 @@
-# Decision making
-# Check even or odd
-# % operator is used for checking the remainder
+# Code #4: Decision-Making
+# Tier: Basic
+# Goal: Check if a number is even or odd
 
 num = int(input("Enter a number: "))
 if num % 2 == 0:
@@ -8,4 +8,34 @@ if num % 2 == 0:
 else:
     print("Odd number")
 
-# Flow: [Start] → input → num % 2 → if/else → print → [End]
+# Concept Breakdown
+"""
+    Concept         Description
+    ----------------------------
+    Condition       Uses if/else to make decisions
+    Modulo          Finds remainder with %
+"""
+
+# How the Logic Works
+"""
+    - Input a number
+    - If divisible by 2 → even
+    - Else → odd
+    - Print result
+"""
+
+# Flowchart-Like Visualization
+"""
+    [Input → num]
+        ↓
+    num % 2 == 0?
+        ├── Yes → Print "Even"
+        └── No → Print "Odd"
+    [End]
+"""
+
+# Real-World Connection
+"""
+    - Crucial for building smart systems—validating user input, applying filters, controlling flow
+    - Powers conditional behavior in games, dashboards, and AI logic
+"""
