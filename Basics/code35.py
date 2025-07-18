@@ -47,7 +47,7 @@ else:
     Comparison      Deterines if number is divisible by digit suum
 """
 
-# how the Logic Works
+# How the Logic Works
 """
     - Accept a number from the user
     - Convert to string and sum its digits
@@ -74,4 +74,11 @@ else:
         ↓
     Check → 19 % 10 != 0 → Not Harshad
     [End]
+"""
+
+# Real-World Connection
+"""
+    - Used in number theory and divisibility tests
+    - Powers logic-based interview questions
+    - Demonstrates digit manipulation and modular arithmetic
 """
