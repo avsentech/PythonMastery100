@@ -26,3 +26,27 @@ list2 = [3, 4, 5, 6]
 Merged List: [1, 2, 3, 4, 5, 6]
 """
 
+# Concept Breakdown
+"""
+    Concept          Description
+    ----------------------------
+    + operator        Combines both lists
+    set()             Removes duplicates by converting to a set
+    list()           Converts the set back to a list for display/use
+"""
+
+# Note: If maintaining order is critical, use a manual loop or dict.fromkeys() instead of set.
+
+# Edge Case Handling
+"""
+    - Empty lists: Merging two empty lists should yield an empty list.
+    - All duplicates: If both lists are identical, the result should be a single instance of the values.
+    - Mixed types: If lists contain different data types, ensure compatibility before merging.
+"""
+
+# Real-World Connection
+"""
+    - Merging user preferences or search history
+    - Filtering duplicate transactions or logs
+    - Consolidating item lists from multiple files or APIs 
+"""
