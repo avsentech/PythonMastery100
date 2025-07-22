@@ -23,3 +23,34 @@ def unzip_file(zip_name, extract_to):
 
 zip_files("e:/Practice/Python/Pythonmastry100/Intermediate", "intermediate_code.zip")
 unzip_file("intermediate_code.zip", "e:/Practice/Python/Pythonmastry100/Extracted")
+
+# Sample Output
+"""
+📂 Files inside: e:/Practice/Python/Pythonmastry100/Intermediate
+🗎 code89.py  
+🗎 code90.py  
+🗎 code91.py
+...
+"""
+
+# Concept Breakdown
+"""
+    Concept             Description
+    --------------------------------
+    os.listdir()        Lists all items in the folder
+    os.path.isfile()    Filters only files (excludes folders)
+    os.path.join()      Creates full path for cross-platform safety
+
+    You can extend this scroll to:
+    - List only .py or .txt files
+    - Sort by date, size or alphabet
+    - Return file paths for advanced automation   
+"""
+
+# Real-World Connection
+"""
+    - 🧠 Batch processing filenames for analysis
+    - 📦 Displaying folder contents in GUI tools
+    - 🎬 Preparing media libraries or conversion tasks
+    - 📁 Auto-tagging files based on extension or metadat
+"""
