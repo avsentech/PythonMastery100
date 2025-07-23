@@ -49,9 +49,6 @@ Related Projects
   > 200-scroll sequel covering decorators, async, testing, packaging,
     architecture, and monetization.
 
-- RepurposePro (https://github.com/avsentech/RepurposePro)
-  > AI-driven content optimizer built using Python.
-
 ---------------------------------------------------
 License & Contributions
 ---------------------------------------------------
