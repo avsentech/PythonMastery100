@@ -2,65 +2,40 @@
 PythonMastery100
 ===================================================
 
-Author      : Senapathy Adithan
-GitHub      : https://github.com/avsentech/PythonMastery100
-Scroll Count: 100 Python scripts
+Author      : Senapathy Adithan  
+GitHub      : https://github.com/avsentech/PythonMastery100  
+Folders     : Basics (Code1–Code61), Intermediate (Code53–Code100)  
 
 ---------------------------------------------------
 Overview
 ---------------------------------------------------
-PythonMastery100 is a curated vault of 100 hands-on Python scripts designed for learners seeking structured progression from beginner fundamentals to intermediate mastery.
+PythonMastery100 is a structured vault of hands-on Python scripts designed for learners aiming to transition from beginner to confident intermediate developers.
 
-Every scroll is a standalone .py file focused on a specific concept, complete with embedded documentation, real-world logic, and terminal-based outputs. This collection is ideal for self-paced learners, educators, or developers aiming to solidify their core Python foundation.
-
----------------------------------------------------
-Topics Covered
----------------------------------------------------
-- Basics      : Variables, strings, lists, loops, conditionals
-- Functions   : Definitions, parameters, return values
-- Recursion   : Factorials, Fibonacci, sorting algorithms
-- OOP         : Classes, inheritance, encapsulation
-- File I/O    : Read/write files, JSON, CSV
-- Automation  : Timers, CLI bots, OS tools, zipping files
-- Regex       : Search, match, validate patterns
-- Data Tools  : Counter, frequency analyzers, API calls
-- Projects    : Expense tracker, stopwatch, file lister
+Split into themed folders—Basics and Intermediate—this scroll collection helps users understand programming through real-world challenges, automation ideas, and practical use cases. Each script is a standalone `.py` file focused on clean logic, clarity, and terminal-ready behavior.
 
 ---------------------------------------------------
-How to Use
+Folder Structure
 ---------------------------------------------------
-Each file is named in sequence: code1.py to code100.py
-Open any script in your editor or terminal and run it.
-All code is fully documented with inline comments.
+- Basics Folder  (Code1–Code61)
+  → Covers foundational Python: variables, loops, strings, functions, recursion, CLI tools.
 
-Recommended: Run sequentially and track your progress.
+- Intermediate Folder  (Code53–Code100)
+  → Focuses on OOP, file handling, timers, API usage, JSON, Regex, automation techniques.
 
----------------------------------------------------
-Certificate of Completion
----------------------------------------------------
-Completing all 100 scrolls qualifies you to claim
-your PythonMastery badge. See certificate.txt in
-the repo for a celebratory message.
+Scroll topics may appear in both folders based on complexity and real-world context.
 
 ---------------------------------------------------
-Related Projects
+Key Concepts Explored
 ---------------------------------------------------
-- PythonAdvanced (https://github.com/avsentech/pythonadvanced)
-  > 200-scroll sequel covering decorators, async, testing, packaging,
-    architecture, and monetization.
+- Data Types & Logic        → Strings, lists, dictionaries, conditionals
+- Recursion & Algorithms    → Sorting, searching, factorial, trees
+- OOP & File Handling       → Classes, inheritance, read/write, exceptions
+- Time-based Utilities      → Countdown, stopwatch, timers
+- CLI & OS Tools            → Zipfiles, renamers, file organizers
+- Regex & Validation        → Email checkers, search/match tools
+- Mini Projects             → Expense tracker, log formatter, API weather tool
 
 ---------------------------------------------------
-License & Contributions
+How to Use This Repository
 ---------------------------------------------------
-MIT License. Contributions welcome via pull requests.
-For questions or collaborations, contact @avsentech
-
----------------------------------------------------
-Closing Scroll
----------------------------------------------------
-Let this collection be your Python dojo—
-Train wisely, build boldly, and code with clarity.
-
-🐍🧠📜
-
-===================================================
+Explore each folder and run scripts
