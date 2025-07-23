@@ -1,0 +1,19 @@
+# Ignore everything by default
+*
+
+# Allow only these folders and files
+!Basics/
+!Intermediate/
+!README.txt
+
+# Ignore common clutter inside allowed folders
+__pycache__/
+*.pyc
+*.log
+*.zip
+*.rar
+*.exe
+*.env
+.idea/
+.vscode/
+.DS_Store
